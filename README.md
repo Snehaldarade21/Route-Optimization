@@ -19,36 +19,6 @@ Google Maps links for visualizing optimal routes
 Modern, easy-to-use Java Swing dashboard
 
 
-**Setup**
-**Clone the repository:**
-bash
-git clone https://github.com/YOUR_USERNAME/RouteOptimizationDashboard.git
-cd RouteOptimizationDashboard
-(Optional) Open in your favorite IDE (IntelliJ IDEA, VS Code, Eclipse, NetBeans, etc.)
-
-**Compile & Run:**
-From command line (in the project root):
-
-bash
-javac -d out src/io/*.java
-java -cp out io.DAA_GUI
-Or use your IDE's build/run option.
-
-Folder Structure
-text
-RouteOptimizationDashboard/
-  ├── src/io/
-  │     ├── DAA_GUI.java
-  │     ├── CityLoader.java
-  │     ├── Graph.java
-  │     ├── Coordinates.java
-  │     ├── DijkstraAlgorithm.java
-  │     └── VehicleBalancing.java
-  ├── .gitignore
-  ├── README.md
-  └── indian_cities.csv
-Usage
-
 **Fill in:**
 
 Number of Vehicles
