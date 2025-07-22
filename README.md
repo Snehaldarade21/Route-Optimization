@@ -1,9 +1,9 @@
 # Route-Optimization
 
-Route Optimization Dashboard
 A Java Swing application for optimizing vehicle routing between cities, especially suited for logistics and delivery planning across India.
 
 **Features**
+
 Load a dataset of Indian cities (CSV file with city names and coordinates)
 
 Enter number, type, and capacity of vehicles
